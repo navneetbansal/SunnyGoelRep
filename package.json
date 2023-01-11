@@ -13,7 +13,7 @@
     "@vue/cli": "^4.0.4",
     "axios": "^0.19.0",
     "core-js": "^2.6.5",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.24.0",
     "surge": "^0.21.3",
     "vue": "^2.6.10",
